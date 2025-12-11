@@ -3,8 +3,6 @@
 This project implements a comprehensive simulation of packet routing in wireless sensor networks modeled as random geometric graphs. The simulation explores how network connectivity (radius `rc`) and packet generation probability (lambda `λ`) affect packet forwarding patterns and network performance.
 
 
-📂 Project Structure
-
 ## Features
 
 - **Random Geometric Graph Generation**: Creates connected networks with variable connectivity radius
